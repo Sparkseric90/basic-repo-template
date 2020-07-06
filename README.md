@@ -1,4 +1,4 @@
-# Awesome Inc Basic Repo
+# Awesome Inc Basic Repo Template
 
 Use this repo as a starter template
 
